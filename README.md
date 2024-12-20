@@ -6,9 +6,9 @@ EmployWise is a user-friendly web application for managing users with features l
 ## 🛠️ Features
 - Login/Authentication: Secure login using valid credentials.
 - User Management:
-* - View a paginated list of users.
-* Edit user details dynamically.
-* Delete users with real-time updates.
+     - View a paginated list of users.
+     - Edit user details dynamically.
+     - Delete users with real-time updates.
 - Success/Error Notifications:
 * Displays messages for successful operations (e.g., edit or delete).
 * Alerts for errors during API interactions.
