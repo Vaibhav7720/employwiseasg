@@ -10,7 +10,15 @@ EmployWise is a user-friendly web application for managing users with features l
      - Edit user details dynamically.
      - Delete users with real-time updates.
 - Success/Error Notifications:
-* Displays messages for successful operations (e.g., edit or delete).
-* Alerts for errors during API interactions.
+     - Displays messages for successful operations (e.g., edit or delete).
+     - Alerts for errors during API interactions.
 - Responsive Design: Ensures a smooth experience across devices.
+
+## 🧰 Tech Stack
+- Frontend: React.js
+- State Management: Redux Toolkit
+- Styling: Tailwind CSS
+- API: Reqres (https://reqres.in)
+
+
 
