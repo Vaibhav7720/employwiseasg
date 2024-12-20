@@ -20,5 +20,28 @@ EmployWise is a user-friendly web application for managing users with features l
 - Styling: Tailwind CSS
 - API: Reqres (https://reqres.in)
 
+## 🚀 Getting Started
+1️⃣ Prerequisites
+Ensure you have the following installed:
+
+- Node.js (v16+)
+- npm or yarn
+2️⃣ Installation
+Clone the repository and install dependencies:
+1. *Clone the Repository:*
+   bash
+   
+   git clone https://github.com/Vaibhav7720/employwiseasg.git
+   
+   cd employwiseasg
+   
+3. **Install Dependencies:**
+   bash
+   npm install
+
+4. *Run the Development Server:*
+   ```bash
+   
+   npm start
 
 
