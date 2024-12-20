@@ -44,4 +44,15 @@ Clone the repository and install dependencies:
    
    npm start
 
+## 🔑 Usage
+Login
+- Use the following credentials (as per Reqres API):
+     - Email: eve.holt@reqres.in
+     - Password: cityslicka
+
+Features
+- Edit User: Click the "Edit" button to modify a user's details.
+- Delete User: Click the "Delete" button to remove a user. A success message will appear.
+- Pagination: Use "Next" and "Previous" buttons to navigate through user pages.
+
 
